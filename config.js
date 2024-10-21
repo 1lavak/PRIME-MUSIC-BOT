@@ -40,14 +40,13 @@ module.exports = {
 
   nodes: [
     {
-      {
-        name: "Node #1",
-        host: "ll3.myhm.space",
-        port: 443,
-        password: "d.gg/therepublic",
-        reconnectTimeout: 80,
+        name: "Working1",
+        host: "nodev4.fypmoon.org",
+        port: 1118,
+        password: "fypmoon.org",
+        reconnectTimeout: 5000,
         reconnectTries: Infinity,
-        secure: true
+        secure: false
     },
  ]
 }
