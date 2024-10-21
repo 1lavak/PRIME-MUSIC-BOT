@@ -43,7 +43,6 @@ module.exports = {
       {
 
         name: "Node #1",
-        identifier: "MYHM.Space",
         host: "ll3.myhm.space",
         port: 443,
         password: "d.gg/therepublic",
