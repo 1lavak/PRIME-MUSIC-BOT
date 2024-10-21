@@ -41,7 +41,6 @@ module.exports = {
   nodes: [
     {
       {
-
         name: "Node #1",
         host: "ll3.myhm.space",
         port: 443,
