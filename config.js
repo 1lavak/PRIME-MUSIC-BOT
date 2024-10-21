@@ -40,13 +40,16 @@ module.exports = {
 
   nodes: [
     {
+      {
+
         name: "Node #1",
-        host: "node.lewdhutao.my.eu.org",
-        port: 4000,
-        password: "youshallnotpass",
+        identifier: "MYHM.Space",
+        host: "ll3.myhm.space",
+        port: 443,
+        password: "d.gg/therepublic",
         reconnectTimeout: 80,
         reconnectTries: Infinity,
-        secure: false
+        secure: true
     },
  ]
 }
