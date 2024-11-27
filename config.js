@@ -40,10 +40,10 @@ module.exports = {
 
   nodes: [
     {
-  "identifier": "LewdHuTao - Lavalink",
-  "password": "youshallnotpass",
-  "host": "node.lewdhutao.my.eu.org",
-  "port": 80,
+  "identifier": "Elf V3 Lights.out.",
+  "password": "LightsoutBeatsElves",
+  "host": "LavaLink3.lightsout.in",
+  "port": 30069,
   "secure": false
 }
  ]
