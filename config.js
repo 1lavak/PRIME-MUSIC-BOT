@@ -40,9 +40,9 @@ module.exports = {
 
   nodes: [
     {
-  "identifier": "AjieDev - Lavalink [Non SSL | US]",
-  "password": "https://dsc.gg/ajidevserver",
-  "host": "lava-v3.ajieblogs.eu.org",
+  "identifier": "LewdHuTao - Lavalink",
+  "password": "youshallnotpass",
+  "host": "node.lewdhutao.my.eu.org",
   "port": 80,
   "secure": false
 }
