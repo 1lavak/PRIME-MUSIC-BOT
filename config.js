@@ -40,10 +40,10 @@ module.exports = {
 
   nodes: [
     {
-  "identifier": "Catfein ID",
-  "password": "catfein",
-  "host": "lava.catfein.com",
-  "port": 4000,
+  "identifier": "AjieDev - Lavalink [Non SSL | US]",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v3.ajieblogs.eu.org",
+  "port": 80,
   "secure": false
 }
  ]
