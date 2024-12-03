@@ -40,13 +40,13 @@ module.exports = {
 
   nodes: [
     {
-        "identifier": "US",
-        "host": "node.itzrandom.cloud",
-        "port": 9000,
-        "password": "lavalink@itzrandomcloud",
+        "identifier": "ApexNodes v4",
+        "host": "v4.bloggertasher.ru",
+        "port": 26040,
+        "password": "apexnodes.xyz",
         "secure": false,
         "restVersion": "v4",
-        "authorId": "878975596623986700"
+        "authorId": "629757042684592140"
     },
  ]
 }
