@@ -40,10 +40,10 @@ module.exports = {
 
   nodes: [
     {
-  "identifier": "LewdHuTao - Lavalink",
-  "password": "youshallnotpass",
-  "host": "node.lewdhutao.my.eu.org",
-  "port": 80,
+  "identifier": "INZEWORLD.COM (DE)",
+  "password": "saher.inzeworld.com",
+  "host": "lava.inzeworld.com",
+  "port": 3128,
   "secure": false
 }
  ]
