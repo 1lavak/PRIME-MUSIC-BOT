@@ -40,12 +40,14 @@ module.exports = {
 
   nodes: [
     {
-  "identifier": "AjieDev - Lavalink [Non SSL | US]",
-  "password": "https://dsc.gg/ajidevserver",
-  "host": "lava-v3.ajieblogs.eu.org",
-  "port": 80,
-  "secure": false
-}
+        "identifier": "US",
+        "host": "node.itzrandom.cloud",
+        "port": 9000,
+        "password": "lavalink@itzrandomcloud",
+        "secure": false,
+        "restVersion": "v4",
+        "authorId": "878975596623986700"
+    },
  ]
 }
 /*
