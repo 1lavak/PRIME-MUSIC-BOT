@@ -40,13 +40,13 @@ module.exports = {
 
   nodes: [
     {
-        "identifier": "ApexNodes v4",
-        "host": "v4.bloggertasher.ru",
-        "port": 26040,
-        "password": "apexnodes.xyz",
+        "identifier": "Elf V4 Lights.out.",
+        "host": "LavaLink4.lightsout.in",
+        "port": 40069,
+        "password": "LightsoutOwnsElves",
         "secure": false,
         "restVersion": "v4",
-        "authorId": "629757042684592140"
+        "authorId": "612666923502796818"
     },
  ]
 }
