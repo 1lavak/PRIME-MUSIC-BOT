@@ -40,10 +40,10 @@ module.exports = {
 
   nodes: [
     {
-  "identifier": "Elf V4 Lights.out.",
-  "password": "LightsoutOwnsElves",
-  "host": "LavaLink4.lightsout.in",
-  "port": 40069,
+  "identifier": "AjieDev - Lavalink [Non SSL | US]",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v3.ajieblogs.eu.org",
+  "port": 80,
   "secure": false
 }
  ]
