@@ -40,14 +40,12 @@ module.exports = {
 
   nodes: [
     {
-        "identifier": "Elf V4 Lights.out.",
-        "host": "LavaLink4.lightsout.in",
-        "port": 40069,
-        "password": "LightsoutOwnsElves",
-        "secure": false,
-        "restVersion": "v4",
-        "authorId": "612666923502796818"
-    },
+  "identifier": "Catfein ID",
+  "password": "catfein",
+  "host": "lava.catfein.com",
+  "port": 4000,
+  "secure": false
+}
  ]
 }
 /*
