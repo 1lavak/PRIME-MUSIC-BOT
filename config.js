@@ -40,11 +40,12 @@ module.exports = {
 
   nodes: [
     {
-            "password": "saher.inzeworld.com",
-        "host": "lava.inzeworld.com",
-        "port": 3128,
-        "secure": false
-        }
+  "identifier": "Catfein ID",
+  "password": "catfein",
+  "host": "lava.catfein.com",
+  "port": 4000,
+  "secure": false
+}
  ]
 }
 /*
